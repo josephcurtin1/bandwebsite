@@ -9,5 +9,8 @@ h1 {
   right: 50px;
 }
 .navbar {
-padding-top: 10px;
+padding-top: 50px;
+}
+.navbar a {
+  display: inline-flex;
 }

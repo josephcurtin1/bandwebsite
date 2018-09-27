@@ -1,16 +1,35 @@
+body {
+  background-image: url("./images/background.jpg");
+  background-repeat: no-repeat;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron {
+  background-color: Firebrick;
+}
 h1,
+h3,
 .navbar,
 .upcoming,
 .recent {
   font-family: "Palatino";
+  color: lightgrey;
 }
 h1 {
   position: absolute;
   right: 50px;
+  color: lightgrey;
 }
 .navbar {
 padding-top: 50px;
 }
 .navbar a {
-  display: inline-flex;
+  margin-left: 4px;
+  margin-right: 4px;
+  border: 1px solid lightgrey;
+}
+a:visited{
+  color: lightgrey;
 }

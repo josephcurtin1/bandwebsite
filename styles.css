@@ -1,1 +1,13 @@
-
+h1,
+.navbar,
+.upcoming,
+.recent {
+  font-family: "Palatino";
+}
+h1 {
+  position: absolute;
+  right: 50px;
+}
+.navbar {
+padding-top: 10px;
+}

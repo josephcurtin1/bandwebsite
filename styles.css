@@ -27,6 +27,7 @@ h1 {
   position: absolute;
   right: 50px;
   color: lightgrey;
+  font-size: 2vw
 }
 
 /* start of navbar */
@@ -62,12 +63,16 @@ h1 {
   text-decoration: none;
   color: lightgrey;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-size: 1.5rem;
+
+    font-size: 20px;
+    font-size: 2vw;
+
   font-weight: 500;
   height: 100%;
   display: flex;
   align-items: center;
   position: relative;
+
   /* background: red; */
 }
 

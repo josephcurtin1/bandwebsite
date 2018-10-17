@@ -25,10 +25,9 @@ h3,
 
 h1 {
   position: absolute;
-  top: 10px;
   right: 50px;
   color: lightgrey;
-  font-size: 3vw;
+  font-size: 2.75vw;
 }
 
 /* start of navbar */
@@ -45,7 +44,7 @@ h1 {
   border: 1px solid FireBrick;
   border-radius: 25px;
   position: absolute;
-  top: 30px;
+  top: 40px;
 }
 
 .main-nav-box {
@@ -105,8 +104,8 @@ h1 {
 footer {
   position: absolute;
   bottom: 0;
-  max-width: 1024px;
-  min-width: 480px;
+
+  width: 98.5vw;
   }
 
 /* end body */

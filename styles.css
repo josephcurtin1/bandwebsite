@@ -25,7 +25,8 @@ h3,
 
 h1 {
   position: absolute;
-  right: 50px;
+  right: 2vw;
+  top: 20px;
   color: lightgrey;
   font-size: 2.75vw;
 }

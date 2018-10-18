@@ -10,4 +10,7 @@
   position: absolute;
   top: 15vw;
   left: 10vw;
+  width: 75vw;
+  height: 55vw;
+  bottom: 5vw;
 }

@@ -100,12 +100,10 @@ h1 {
   max-width: 100%;
 }
 
-
 footer {
   position: absolute;
   bottom: 0;
-
   width: 98.5vw;
-  }
+}
 
 /* end body */

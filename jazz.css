@@ -1,4 +1,9 @@
-h2 {
+.jazz {
   position: absolute;
-  top: 50px;
+  top: 7vw;
+  color: FireBrick;
+}
+
+footer {
+  color: FireBrick;
 }

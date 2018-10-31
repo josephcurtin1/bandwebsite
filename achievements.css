@@ -1,4 +1,6 @@
-h2 {
+.achievements {
   position: absolute;
-  top: 50px;
+  flex: auto;
+  top: 7vw;
+  color: FireBrick;
 }

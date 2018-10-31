@@ -105,4 +105,9 @@ footer {
   width: 98.5vw;
 }
 
+.recent {
+border: 5px Double FireBrick;
+border-width: medium;
+}
+
 /* end body */

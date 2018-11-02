@@ -14,3 +14,10 @@
   height: 55vw;
   bottom: 5vw;
 }
+
+#calendarTitle {
+    font-family: Arial,sans-serif;
+    font-weight: bold;
+    padding-left: 2px;
+    color: white;
+}

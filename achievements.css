@@ -4,3 +4,7 @@
   top: 7vw;
   color: FireBrick;
 }
+p {
+  width: 50vw;
+    word-wrap: break-word;
+}

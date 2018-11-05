@@ -1,10 +1,8 @@
-
 .responsiveCal {
   position: relative;
-  padding-bottom: 75%;
-  height: 0;
-  overflow: hidden;
+
 }
+
 
 .responsiveCal iframe {
   position: absolute;
@@ -12,7 +10,7 @@
   left: 10vw;
   width: 75vw;
   height: 55vw;
-  bottom: 5vw;
+  bottom: 4vw;
 }
 
 #calendarTitle {

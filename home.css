@@ -1,1 +1,4 @@
-
+p {
+  width: 50vw;
+    word-wrap: break-word;
+}

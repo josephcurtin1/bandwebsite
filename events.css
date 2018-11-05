@@ -15,7 +15,7 @@
   bottom: 5vw;
 }
 
-#calendarTitle {
+.calendarTitle {
     font-family: Arial,sans-serif;
     font-weight: bold;
     padding-left: 2px;

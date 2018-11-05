@@ -106,8 +106,10 @@ footer {
 }
 
 .recent {
-border: 5px Double FireBrick;
-border-width: medium;
+border: 12.5px Double FireBrick;
+border-width: fit-content;
+background-color: gainsboro
+
 }
 
 /* end body */

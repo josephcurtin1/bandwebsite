@@ -2,3 +2,18 @@ p {
   width: 50vw;
     word-wrap: break-word;
 }
+.upcoming {
+  border: 12.5px Double FireBrick;
+  border-width: fit-content;
+  background-color: gainsboro;
+  width: 50vw;
+}
+
+.recent {
+border: 12.5px Double FireBrick;
+border-width: fit-content;
+background-color: gainsboro;
+width: 50vw;
+position: relative;
+float: right;
+}

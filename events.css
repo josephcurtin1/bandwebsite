@@ -19,12 +19,3 @@
     padding-left: 2px;
     color: white;
 }
-
-.responsiveCal iframe {
-border: 12.5px Double FireBrick;
-border-width: fit-content;
-background-color: gainsboro;
-width: 50vw;
-position: relative;
-float: right;
-}

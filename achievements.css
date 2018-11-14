@@ -3,8 +3,10 @@
   flex: auto;
   top: 7vw;
   color: FireBrick;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
 p {
   width: 50vw;
-    word-wrap: break-word;
+  word-wrap: break-word;
 }

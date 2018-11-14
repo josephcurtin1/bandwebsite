@@ -1,8 +1,6 @@
 .responsiveCal {
   position: relative;
-
 }
-
 
 .responsiveCal iframe {
   position: absolute;
@@ -14,8 +12,8 @@
 }
 
 #calendarTitle {
-    font-family: Arial,sans-serif;
-    font-weight: bold;
-    padding-left: 2px;
-    color: white;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  padding-left: 2px;
+  color: white;
 }

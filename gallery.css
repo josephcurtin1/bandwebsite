@@ -1,4 +1,9 @@
 h2 {
   position: absolute;
-  top: 50px;
+  top: 7vw;
+  left: 50%;
+  font-size: 3vw;
+  font-style: italic;
+  color: FireBrick;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

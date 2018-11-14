@@ -1,7 +1,8 @@
 p {
   width: 50vw;
-    word-wrap: break-word;
+  word-wrap: break-word;
 }
+
 .upcoming {
   border: 12.5px Double FireBrick;
   border-width: fit-content;
@@ -10,10 +11,21 @@ p {
 }
 
 .recent {
-border: 12.5px Double FireBrick;
-border-width: fit-content;
-background-color: gainsboro;
-width: 50vw;
-position: relative;
-float: right;
+  border: 12.5px Double FireBrick;
+  border-width: fit-content;
+  background-color: gainsboro;
+  width: 50vw;
+  position: relative;
+  float: right;
+}
+
+/* Make the image fully responsive */
+.carousel-inner img {
+  width: 10vw;
+  height: 10vw;
+}
+
+.carousel-slide p {
+  display: flex;
+  justify-content: space-between;
 }

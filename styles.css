@@ -27,8 +27,8 @@ h3,
   position: absolute;
   right: 1vw;
   top: 20px;
-  height:8vw;
-  width:30vw;
+  height: 8vw;
+  width: 30vw;
 }
 
 /* start of navbar */
@@ -104,6 +104,5 @@ footer {
   bottom: 0;
   width: 98.5vw;
 }
-
 
 /* end body */

@@ -4,16 +4,8 @@
 
 .responsiveCal iframe {
   position: absolute;
-  top: 15vw;
-  left: 10vw;
-  width: 75vw;
-  height: 55vw;
-  bottom: 4vw;
-}
-
-#calendarTitle {
-  font-family: Arial, sans-serif;
-  font-weight: bold;
-  padding-left: 2px;
-  color: white;
+  top: 30vw;
+  width: 60vw;
+  height: 40vw;
+  left: 7vw
 }

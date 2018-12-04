@@ -8,9 +8,18 @@ p {
   border-width: fit-content;
   background-color: gainsboro;
   width: 40vw;
-
+  position: relative;
+  top: 3vw;
+  left: 2vw;
 }
-
+img {
+  width: 30vw;
+  height: 20vw;
+  position: relative;
+  float: right;
+  bottom: 25vw;
+  right: 5vw;
+}
 .recent {
   border: 12.5px Double FireBrick;
   border-width: fit-content;
@@ -18,4 +27,5 @@ p {
   width: 40vw;
   position: relative;
   float: right;
+  right: 2vw;
 }

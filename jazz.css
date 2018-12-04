@@ -9,3 +9,9 @@ footer {
   color: FireBrick;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.jazz {
+  width: 50vw;
+  text-align: center;
+  margin-left: 25vw;
+  margin: right;
+}

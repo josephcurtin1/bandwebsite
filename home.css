@@ -12,13 +12,19 @@ p {
   top: 3vw;
   left: 2vw;
 }
-img {
+.veteransday {
   width: 30vw;
   height: 20vw;
   position: relative;
   float: right;
   bottom: 25vw;
   right: 5vw;
+}
+.concertfestival{
+  width: 30vw;
+  height: 20vw;
+  position: relative;
+  bottom: 15vw;
 }
 .recent {
   border: 12.5px Double FireBrick;
@@ -27,5 +33,4 @@ img {
   width: 40vw;
   position: relative;
   float: right;
-  right: 2vw;
 }

@@ -14,8 +14,8 @@ p {
 }
 
 .veteransday {
-  width: 30vw;
   height: 20vw;
+  width: 30vw;
   position: relative;
   float: right;
   bottom: 20vw;
@@ -23,12 +23,12 @@ p {
 }
 
 .concertfestival {
-  width: 30vw;
   height: 20vw;
-  margin-top: 10vw;
-float: left;
+  width: 30vw;
+  margin-top: 25vw;
+  float: left;
   white-space: nowrap;
-    overflow-x: auto;
+  overflow-x: auto;
 }
 
 .recent {
@@ -36,8 +36,6 @@ float: left;
   border-width: fit-content;
   background-color: gainsboro;
   width: 40vw;
-  margin-left: 50vw;
   display: inline-block;
-     margin-left: 10vw;
-
+  margin-left: 20vw;
 }

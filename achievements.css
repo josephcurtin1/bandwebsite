@@ -11,51 +11,36 @@ p {
   word-wrap: break-word;
 }
 
-.SE {
+.first{
   border: 12.5px Double FireBrick;
-  border-width: fit-content;
-  background-color: gainsboro;
-  width: 40vw;
-}
+border-width: fit-content;
+background-color: gainsboro;
+width:40vw;
+display: inline-block;
 
-.allwest {
+
+}
+.second {
   border: 12.5px Double FireBrick;
   border-width: fit-content;
   background-color: gainsboro;
-  width: 40vw;
-  padding: 5px;
   position: relative;
-  float: right;
+  float:right;
+  display: inline-block;
+  margin-right: 5vw;
 }
+.allwest {
+  height: 23vw;
+  width: 38vw;
+  margin-right: 10vw;
+  margin-left: 2vw;
 
-.allstate {
-  border: 12.5px Double FireBrick;
-  border-width: fit-content;
-  background-color: gainsboro;
-  width: 40vw;
-  padding: 5px;
+
+
 }
-
 .concertfestival {
-  border: 12.5px Double FireBrick;
-  border-width: fit-content;
-  background-color: gainsboro;
-  width: 40vw;
-  padding: 5px;
-}
-
-.state {
-  border: 12.5px Double FireBrick;
-  border-width: fit-content;
-  background-color: gainsboro;
-  width: 40vw;
-  padding: 5px;
-}
-
-.JSYO {
-  border: 12.5px Double FireBrick;
-  border-width: fit-content;
-  background-color: gainsboro;
-  width: 40vw;
-  padding: 5px;
+  height: 23vw;
+  width: 38vw;
+  margin-right: 5vw;
+  margin-left: 3vw
 }

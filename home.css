@@ -25,7 +25,10 @@ p {
 .concertfestival {
   width: 30vw;
   height: 20vw;
-  padding-top: 10vw;
+  margin-top: 10vw;
+float: left;
+  white-space: nowrap;
+    overflow-x: auto;
 }
 
 .recent {
@@ -34,5 +37,7 @@ p {
   background-color: gainsboro;
   width: 40vw;
   margin-left: 50vw;
-  margin-top: 15vw;
+  display: inline-block;
+     margin-left: 10vw;
+
 }

@@ -11,33 +11,31 @@ p {
   word-wrap: break-word;
 }
 
-.first{
+.first {
   border: 12.5px Double FireBrick;
-border-width: fit-content;
-background-color: gainsboro;
-width:40vw;
-display: inline-block;
-
-
+  border-width: fit-content;
+  background-color: gainsboro;
+  width: 40vw;
+  display: inline-block;
 }
+
 .second {
   border: 12.5px Double FireBrick;
   border-width: fit-content;
   background-color: gainsboro;
   position: relative;
-  float:right;
+  float: right;
   display: inline-block;
   margin-right: 5vw;
 }
+
 .allwest {
   height: 23vw;
   width: 38vw;
   margin-right: 10vw;
   margin-left: 2vw;
-
-
-
 }
+
 .concertfestival {
   height: 23vw;
   width: 38vw;

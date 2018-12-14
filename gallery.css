@@ -14,55 +14,65 @@ h2 {
   padding-top: 15vw;
   padding-left: 10vw;
 }
+
 .two {
   max-height: 25vw;
   max-width: 30vw;
   padding-top: 20vw;
   padding-left: 15vw;
 }
+
 .three {
   max-height: 20vw;
   max-width: 25vw;
   padding-left: 5vw;
 }
+
 .four {
   max-height: 20vw;
   max-width: 25vw;
   padding-left: 5vw;
   padding-top: 5vw;
 }
+
 .five {
   max-height: 20vw;
   max-width: 25vw;
   padding-left: 5vw;
 }
+
 .six {
   max-height: 20vw;
   max-width: 25vw;
   padding-top: 5vw;
   padding-left: 15vw;
 }
+
 .seven {
   max-height: 20vw;
   max-width: 25vw;
   padding-left: 15vw;
 }
+
 .eight {
   max-height: 20vw;
   max-width: 25vw;
   padding-left: 5vw;
 }
+
 .nine {
   max-height: 20vw;
   max-width: 25vw;
   padding-left: 5vw;
   padding-top: 5vw;
 }
+
 .ten {
   max-height: 20vw;
   max-width: 25vw;
   padding-left: 5vw;
 }
+
 p {
   color: FireBrick;
 }

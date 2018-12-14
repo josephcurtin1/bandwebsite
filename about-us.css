@@ -20,13 +20,15 @@
   margin-top: 13vw;
   margin-left: 10vw;
 }
+
 .veteransday {
   max-width: 25vw;
   max-height: 30vw;
-  margin-left:15vw;
+  margin-left: 15vw;
 }
+
 footer {
   margin-top: 5vw;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-color: FireBrick;
+  color: FireBrick;
 }
